@@ -1,0 +1,6 @@
+artifact_location: file:///Users/avi/Desktop/CampusX/MLOPS/adv-mlflow/mlruns/110759054237872364
+creation_time: 1721436858760
+experiment_id: '110759054237872364'
+last_update_time: 1721436858760
+lifecycle_stage: active
+name: iris-rf

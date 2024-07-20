@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/avi/Desktop/CampusX/MLOPS/adv-mlflow/mlruns/110759054237872364/c4b78f0b07f948399dacbcf389fe81ab/artifacts
+end_time: 1721436975947
+entry_point_name: ''
+experiment_id: '110759054237872364'
+lifecycle_stage: active
+run_id: c4b78f0b07f948399dacbcf389fe81ab
+run_name: avi-new-exp1
+run_uuid: c4b78f0b07f948399dacbcf389fe81ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721436974029
+status: 3
+tags: []
+user_id: avi
